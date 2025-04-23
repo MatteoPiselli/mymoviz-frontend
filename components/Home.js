@@ -38,7 +38,7 @@ function Home() {
 
   // Movies list
   useEffect(() => {
-    fetch("http://localhost:3000/movies")
+    fetch("https://mymoviz-backend-matteo-pisellis-projects.vercel.app/movies")
       .then((response) => response.json())
       .then((data) => {
         let dataMovies = data.movies.map((movie) => {
