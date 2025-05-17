@@ -5,7 +5,7 @@
 ---
 
 ### 📲 Demo  
-<img src="assets/mymoviz.gif" height="400"/>  
+<img src="/demo-mymoviz.gif" />  
 
 
 ---
