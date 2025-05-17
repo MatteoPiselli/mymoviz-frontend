@@ -13,7 +13,7 @@
 
 ## 📱 Tech Stack  
 
-All the technologies I used for this mobile application
+All the technologies I used for this website.
 
 #### Front-end
 <table>
