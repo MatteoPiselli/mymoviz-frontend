@@ -5,7 +5,7 @@
 ---
 
 ### 📲 Demo  
-<img src="/demo-mymoviz.gif" />  
+<img src="public/demo-mymoviz.gif" />  
 
 
 ---
