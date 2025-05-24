@@ -22,10 +22,6 @@ All the technologies I used for this website.
     <td>React</td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/></td>
-    <td>NextJS</td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/></td>
     <td>CSS</td>
   </tr>
